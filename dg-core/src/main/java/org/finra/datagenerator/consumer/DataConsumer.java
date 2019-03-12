@@ -36,6 +36,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
  * Processes search results produced by a SearchDistributor.
+ *
+ * This a new comment to check
  */
 public class DataConsumer {
 
